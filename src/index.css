@@ -1,0 +1,10 @@
+html {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  width: 100vp;
+  height: 100vh;
+  background-color: #f5f5f5;
+  box-sizing: border-box;
+  border: 3px solid brown;
+}
